@@ -7,7 +7,7 @@ sudo apt-get install git
 ```
 Clone the repository
 ```bash
-git clone https://github.com/danny270793/Database.git
+git clone https://github.com/danny270793/PythonDatabase.git
 ```
 Enter to the folder and install it on python 2
 ```bash
